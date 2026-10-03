@@ -2,13 +2,21 @@
 
 > **Read-only archive of released versions of ordinaryjellyfish/sentra.** Not for installation: use [Packagist](https://packagist.org/packages/ordinaryjellyfish/sentra) or the [upstream repository](https://github.com/OrdinaryJellyfish/sentra).
 
-**0** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.3.2) · License: `LGPL-3.0-or-later` · Flarum: `^1.0`
+**9** versions archived · Latest: [`0.3.2`](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.3.2) · License: `LGPL-3.0-or-later` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2025-02-17 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.1.0) |
+| `0.1.1` | 2025-02-17 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.1.1) |
+| `0.2.0` | 2025-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.2.0) |
+| `0.2.1` | 2025-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.2.1) |
+| `0.2.2` | 2025-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.2.2) |
+| `0.2.3` | 2025-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.2.3) |
+| `0.3.0` | 2025-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.3.0) |
+| `0.3.1` | 2025-03-06 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.3.1) |
+| `0.3.2` | 2025-03-06 | `^1.0` | [Browse](https://github.com/flarchive/ordinaryjellyfish-sentra/tree/archive/v0.3.2) |
 
 Catalog entry: [packages/ordinaryjellyfish-sentra.json](https://github.com/flarchive/archive-index/blob/main/packages/ordinaryjellyfish-sentra.json)
 
